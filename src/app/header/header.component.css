@@ -77,3 +77,6 @@ nav img{
     border: 1px solid #f44336;
     background: #f44336;
 }
+div app-notification{
+    position:fixed;
+}
